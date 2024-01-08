@@ -90,6 +90,7 @@ public class Livre {
         Livre livre = new Livre("1234567890", "Titre du Livre", 2023, "Maison d'édition A", auteurs);
         livre.ajouterAuteur("kaoutar");
         livre.ajouterAuteur("oumaima");
+        livre.ajouterAuteur("khaoula");
         
         
         System.out.println(livre);
